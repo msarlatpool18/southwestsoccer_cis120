@@ -1,0 +1,60 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: #A2A2A1FF
+}
+h3 {
+	text-align: center;
+}
+form {
+	text-align: center
+}
+footer {
+	text-align: center
+}
+img {
+	border: 4px solid #195190FF;
+}
+h3 {
+	border: double;
+}
+h2 {
+	text-align: center
+}
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img {
+	max-height: 250px;
+}
+.man{
+	display: inline;
+	margin-left:75% ;
+	margin-right:auto ;
+}
+.girl{
+	display: inline;
+	margin-left:auto ;
+	margin-right:auto ;
+}
+.apparel{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mens_schedule{
+	border: 4px solid #195190FF;
+}
+#womenrecord{
+	color:white;
+}
+#menrecord{
+	color:white;
+}
+tr:nth-child(even){
+	background-color:#f2f2f2
+}
