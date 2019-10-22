@@ -1,31 +1,38 @@
 <!DOCTYPE html>
- 
 <html lang="en">
 <head>
-<meta charset=UTF-8">
-    
-    <title>Southwest College Women's Soccer Roster</title><img src="img/logo.jpg">
+<link rel="icon" href="img/logo.png">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/stylesheet.css">
+<title>Southwest College Soccer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
-<nav>
-<h1>Southwest College Women's Roster</h1>
-
+<header>
+Southwest College Soccer
+</header>
+<nav class="nav_bar shadow" >
     <ul>
+        <li><a href="index.html">Home</a></li>
         <li><a href="college_information.html">Southwest College Information</a></li>
         <li><a href="conference_information.html">ARC Conference Information</a></li>
-        <li>Rosters
-            <ul>
-                <li><a href="womens_roster.html">Women's Roster</a></li>
-                 <li><a href="mens_roster.html">Men's Roster</a></li>
+        <li class="drop_down"> <a href="" class="active">Rosters:</a>
+            <ul class="drop_down_content">
+                <a href="womens_roster.html" class="drop active">Women's Roster</a>
+                 <a href="mens_roster.html" class="drop">Men's Roster</a>
             </ul></li>
+            <div class="drop2">
+            <li><a href="womens_roster.html">Women's Roster</a></li>
+            <li><a href="mens_roster.html">Men's Roster</a></li>
+            </div>
         <li><a href="team_schedules.html">Team Schedules</a></li>
         <li><a href="team_store.html">Team Store</a></li>
     </ul>
 </nav>
-
+          
+<article class="light_shadow">
 <h2>2019 Southwest College Women's Soccer Roster</h2>
-<h3>Baylee Ratliff</h3>
 <table>
     <tbody><tr>
         <th>Number</th>
@@ -153,8 +160,8 @@
     </tr>
 </tbody>
 </table>
-
 <footer>&copy;2019 Southwest College. All Rights Reserved.</footer>
+</article>
 
 </body>
 </html>
