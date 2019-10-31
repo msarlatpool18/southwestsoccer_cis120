@@ -143,7 +143,7 @@ Southwest College Soccer
 </table>
 <h3>Record: 2-1</h3>
 
-<footer>&copy; 2019 Southwest College. All Rights Reserved.</footer>
+<?php include 'footer.php'; ?>
 </article>
 
 </body>

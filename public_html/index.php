@@ -62,7 +62,7 @@ will be defending their title from last season.</p>
   <br><br>
   <input type="submit" value="Log in" class="button rounded">
 </form>
-<footer>&copy;2019 Southwest College. All Rights Reserved.</footer>
+<?php include 'footer.php'; ?>
 </article>
 
 </body>

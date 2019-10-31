@@ -56,7 +56,7 @@ Southwest College Soccer
 </p><h5>Sizes available: XS, S, M, L, XL</h5>
 <p></p>
 
-<footer>©2019 Southwest College. All Rights Reserved.</footer>
+<?php include 'footer.php'; ?>
 
 </article>
 

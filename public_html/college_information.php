@@ -63,7 +63,7 @@ network of alumni, we strive to meet every student's need to learn and gain some
  <h3>Majors and Minors</h3>
 <p>Our current selection of majors and minors include +70 mmajors and +30 minors in over 20 different departments. What makes Southwest so unique is our ability to allow students to create their own path towards their major, in which the curriculum provides unrestricted assistance towards the exact career path of your choosing.</p> 
  
-<footer>© 2019 Southwest College. All Rights Reserved.</footer>
+<?php include 'footer.php'; ?>
 </article>
 
 </body>

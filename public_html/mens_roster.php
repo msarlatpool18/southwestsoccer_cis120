@@ -146,7 +146,7 @@ Southwest College Soccer
     </tr>
 </table>
 
-<footer>&copy; 2019 Southwest College. All Rights Reserved.</footer>
+<?php include 'footer.php'; ?>
 </article>
 </body>
 </html>
